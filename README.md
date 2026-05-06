@@ -21,7 +21,7 @@ Proyecto desarrollado en Python que permite gestionar alumnos y sus notas median
 ## ▶️ Cómo ejecutar
 
 ```bash
-python sistema_gestion_alumnos.py
+python sistema-gestion-alumnos.py
 ```
 
 ## 📌 Autor
